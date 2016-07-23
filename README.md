@@ -1,6 +1,6 @@
 # zenbar
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.jpg)
 
 Übersicht system information bar for use with kwm window
 manager. A fork of herrbischoff's
