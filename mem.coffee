@@ -12,5 +12,5 @@ style: """
   right: 70px
   top: 6px
   span
-    color: #859900
+    color: #777777
 """
