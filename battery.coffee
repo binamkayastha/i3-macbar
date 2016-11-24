@@ -9,8 +9,8 @@ style: """
   -webkit-font-smoothing: antialiased
   font: 9px Menlo
   top: 16px
-  right: 10px
+  right: 30px
   color: #eee8d5
   span
-    color: #777777
+    color: #aaa
 """

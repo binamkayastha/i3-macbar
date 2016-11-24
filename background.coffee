@@ -13,6 +13,6 @@ style: """
   right: 0
   margin: 10px 20px
   background-color: #505050
-  opacity: 0.8
+  opacity: 0.9
   z-index: -1
 """
