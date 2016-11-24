@@ -9,7 +9,7 @@ style: """
   -webkit-font-smoothing: antialiased
   color: #eee8d5
   font: 9px Menlo
-  top: 6px
+  top: 16px
   width: 100%
 
   .date
