@@ -6,12 +6,12 @@ render: (output) ->
 style: """
   display: block
   position: absolute
-  height: 20px
   bottom: 0
-  top: 0
+  top: 50
   left: 0
   right: 0
-  margin: 10px 20px
+  height: 48px 
+  margin: 10px 16px
   background-color: #505050
   opacity: 0.9
   z-index: -1
