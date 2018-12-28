@@ -10,7 +10,7 @@ style: """
   font: 12px Menlo
   top: 50
   bottom: 5px
-  left: 30px
+  left: 0px
   color: #eee8d5
   span
     color: #aaa

@@ -25,14 +25,19 @@ workspace_name_arr=(
 
 print_workspace_list () {
 	# Requires input workspace number
+    echo "<div style='display: flex;'>"
 	for i in {1..7}
 	do
+		echo "<div style='border: 1px solid grey; background: #333333; padding: 0px 3px 0px 3px; margin: 0px 1px 0px 1px'>"
 		if [ $i = $1 ]; then
-				echo "<b>"${workspace_name_arr[$i-1]}"</b>"
+			echo "<b>"${workspace_name_arr[$i-1]}"</b>"
 		else
-				echo ${workspace_name_arr[$i-1]}
+			echo ${workspace_name_arr[$i-1]}
+			# echo "<div>"${teworkspace_name_arr[$i-1]}"</div>"
 		fi
+        echo "</div>"
 	done
+    echo "</div>"
 }
 
 case $(echo $desktop_num) in
