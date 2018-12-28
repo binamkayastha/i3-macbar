@@ -1,4 +1,4 @@
-command: "date +\"%a %d %b %Y %H:%M:%S\""
+command: "date +\"%a %d %b %Y %I:%M %p\""
 
 refreshFrequency: 1000
 
