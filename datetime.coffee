@@ -10,7 +10,7 @@ style: """
   color: #eee8d5
   font: 12px Menlo
   top: 50
-  bottom: 26px
+  bottom: 5px
   width: 100%
 
   .date

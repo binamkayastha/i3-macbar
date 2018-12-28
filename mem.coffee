@@ -11,7 +11,7 @@ style: """
   font: 12px Menlo
   right: 90px
   top: 50
-  bottom: 26px
+  bottom: 5px
   span
     color: #aaa
 """

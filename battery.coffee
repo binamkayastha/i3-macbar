@@ -9,7 +9,7 @@ style: """
   -webkit-font-smoothing: antialiased
   font: 12px Menlo
   top: 50
-  bottom: 26px
+  bottom: 5px
   right: 30px
   color: #eee8d5
   span
